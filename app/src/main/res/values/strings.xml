@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom_views_compose</string>
+    <string name="enter_valid_email_address">Enter Valid email Address</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_valid_name">Enter Valid Name</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="enter_valid_phone_no">Enter Valid Phone No</string>
+    <string name="validate">Validate</string>
+</resources>
